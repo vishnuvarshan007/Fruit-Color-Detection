@@ -43,7 +43,7 @@ python app.py
 ```
 
 ---
-
+```
 📂 Folder Structure
 .
 ├── app.py               # Main backend file
@@ -54,7 +54,7 @@ python app.py
 ├── reports/             # Generated PDF reports
 ├── requirements.txt     # Python dependencies
 └── README.md
-
+```
 ---
 
 📑 PDF Report Includes
