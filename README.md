@@ -37,16 +37,11 @@ Built with Flask + WebSocket for live image processing and reporting.
 git clone https://github.com/yourusername/fruit-color-detector.git
 cd fruit-color-detector
 2. Install dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
 3. Run the Flask app
-bash
-Copy
-Edit
-python app.py
-Visit: http://localhost:5000
+python app.py```
+
+---
 
 📂 Folder Structure
 bash
@@ -59,6 +54,9 @@ Edit
 ├── reports/             # Generated PDF reports
 ├── requirements.txt     # Python dependencies
 └── README.md
+
+---
+
 🎯 API Usage
 POST /upload
 Upload images using key: images[]
